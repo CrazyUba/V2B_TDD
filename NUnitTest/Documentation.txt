@@ -1,0 +1,14 @@
+﻿nunit.org
+
+1. Visual Studio anpassen:
+Tools\Extensions and Updates\Install: NUnit 3 Test Adapater
+
+2. Class-Library-Projekt anlegen
+Manage NuGet Packages: NUnit installieren
+
+3. Tests schreiben, kompilieren, Solution ggf. 'rebuild'
+
+4. Test-Explorer: Test\Windows\Test-Explorer
+
+5. Falls Test nicht sichtbar: Prüfen ob NUnit-Test-Adapter (Extensions and updates) 'enabled' ist 
+(ggf. Prozessorarchitektur überprüfen (Test\Testsettings und Projekteigenschaften))

@@ -1,0 +1,7 @@
+﻿nunit.org
+
+1. Visual Studio anpassen:
+Tools\Extensions and Updates\Install: NUnit 3 Test Adapater
+
+2. Class-Library-Projekt anlegen
+Manage NuGet Packages: NUnit installieren

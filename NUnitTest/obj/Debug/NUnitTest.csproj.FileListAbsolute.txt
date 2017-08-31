@@ -1,0 +1,9 @@
+C:\Devel\VisalStudio\Projects\V2B_TDD\NUnitTest\bin\Debug\NUnitTest.dll
+C:\Devel\VisalStudio\Projects\V2B_TDD\NUnitTest\bin\Debug\NUnitTest.pdb
+C:\Devel\VisalStudio\Projects\V2B_TDD\NUnitTest\bin\Debug\nunit.framework.dll
+C:\Devel\VisalStudio\Projects\V2B_TDD\NUnitTest\bin\Debug\nunit.framework.xml
+C:\Devel\VisalStudio\Projects\V2B_TDD\NUnitTest\obj\Debug\NUnitTest.dll
+C:\Devel\VisalStudio\Projects\V2B_TDD\NUnitTest\obj\Debug\NUnitTest.pdb
+C:\Devel\VisalStudio\Projects\V2B_TDD\NUnitTest\obj\Debug\NUnitTest.csprojResolveAssemblyReference.cache
+C:\Devel\VisalStudio\Projects\V2B_TDD\NUnitTest\bin\Debug\MyLibrary.dll
+C:\Devel\VisalStudio\Projects\V2B_TDD\NUnitTest\bin\Debug\MyLibrary.pdb

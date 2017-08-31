@@ -1,0 +1,5 @@
+C:\Devel\VisalStudio\Projects\V2B_TDD\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Devel\VisalStudio\Projects\V2B_TDD\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Devel\VisalStudio\Projects\V2B_TDD\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Devel\VisalStudio\Projects\V2B_TDD\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Devel\VisalStudio\Projects\V2B_TDD\MyLibrary\obj\Debug\MyLibrary.pdb

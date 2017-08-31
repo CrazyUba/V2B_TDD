@@ -1,0 +1,1 @@
+C:\Devel\VisalStudio\Projects\V2B_TDD\ConsoleApplication1\obj\Debug\Documentation.csprojResolveAssemblyReference.cache

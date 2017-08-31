@@ -1,0 +1,5 @@
+C:\Devel\VisalStudio\Projects\V2B_TDD\NUnitTest2\bin\Debug\NUnitTest2.dll
+C:\Devel\VisalStudio\Projects\V2B_TDD\NUnitTest2\bin\Debug\NUnitTest2.pdb
+C:\Devel\VisalStudio\Projects\V2B_TDD\NUnitTest2\obj\Debug\NUnitTest2.dll
+C:\Devel\VisalStudio\Projects\V2B_TDD\NUnitTest2\obj\Debug\NUnitTest2.pdb
+C:\Devel\VisalStudio\Projects\V2B_TDD\NUnitTest2\obj\Debug\NUnitTest2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Devel\VisalStudio\Projects\V2B_TDD\MyStack\bin\Debug\MyStack.exe.config
+C:\Devel\VisalStudio\Projects\V2B_TDD\MyStack\bin\Debug\MyStack.exe
+C:\Devel\VisalStudio\Projects\V2B_TDD\MyStack\bin\Debug\MyStack.pdb
+C:\Devel\VisalStudio\Projects\V2B_TDD\MyStack\obj\Debug\MyStack.csprojResolveAssemblyReference.cache
+C:\Devel\VisalStudio\Projects\V2B_TDD\MyStack\obj\Debug\MyStack.exe
+C:\Devel\VisalStudio\Projects\V2B_TDD\MyStack\obj\Debug\MyStack.pdb

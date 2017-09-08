@@ -1,0 +1,7 @@
+C:\Devel\VisalStudio\Projects\V2B_TDD\RedGreenRefactor_Test\bin\Debug\RedGreenRefactor_Test.dll
+C:\Devel\VisalStudio\Projects\V2B_TDD\RedGreenRefactor_Test\bin\Debug\RedGreenRefactor_Test.pdb
+C:\Devel\VisalStudio\Projects\V2B_TDD\RedGreenRefactor_Test\bin\Debug\nunit.framework.dll
+C:\Devel\VisalStudio\Projects\V2B_TDD\RedGreenRefactor_Test\bin\Debug\nunit.framework.xml
+C:\Devel\VisalStudio\Projects\V2B_TDD\RedGreenRefactor_Test\obj\Debug\RedGreenRefactor_Test.csprojResolveAssemblyReference.cache
+C:\Devel\VisalStudio\Projects\V2B_TDD\RedGreenRefactor_Test\obj\Debug\RedGreenRefactor_Test.dll
+C:\Devel\VisalStudio\Projects\V2B_TDD\RedGreenRefactor_Test\obj\Debug\RedGreenRefactor_Test.pdb

@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 namespace NUnitTest
 {
     [TestFixture]  
+    [Ignore("")]
     public class Tests
     {
         [Test]

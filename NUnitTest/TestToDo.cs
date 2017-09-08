@@ -8,6 +8,7 @@ using NUnit.Framework;
 namespace NUnitTest
 {
     [TestFixture]
+    [Ignore("")]
     public class TestToDo
     {
         [Test]

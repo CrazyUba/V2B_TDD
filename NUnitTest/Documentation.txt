@@ -12,3 +12,5 @@ Manage NuGet Packages: NUnit installieren
 
 5. Falls Test nicht sichtbar: Prüfen ob NUnit-Test-Adapter (Extensions and updates) 'enabled' ist 
 (ggf. Prozessorarchitektur überprüfen (Test\Testsettings und Projekteigenschaften))
+
+6. Mocking: nuget package: NUnit.Mocks

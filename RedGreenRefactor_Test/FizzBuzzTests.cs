@@ -10,7 +10,7 @@ namespace RedGreenRefactor_Test
     /* 1 -> "1"
      * Teilbar durch 3 -> Fizz
      * Teilbar durch 5 -> Buzz
-     * Teilbar durch 15 -> FizzBuzz
+     * Teilbar durch 15 -> FizzBuzz 
      */
 
     [TestFixture]
